@@ -1,8 +1,15 @@
-### Hi there 👋
+### Summary
 
-[![tokku5552's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokku5552&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tokku5552's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokku5552&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=algolia &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tokku5552/posts.svg)](http://qiita.com/tokku5552)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tokku5552/contributions.svg)](http://qiita.com/tokku5552)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/tokku5552/followers.svg)](http://qiita.com/tokku5552)
+        
 <!--
 **tokku5552/tokku5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
