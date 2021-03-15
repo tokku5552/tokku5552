@@ -4,11 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tokku5552/posts.svg)](http://qiita.com/tokku5552)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tokkun5552/posts.svg)](http://qiita.com/tokkun5552)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tokku5552/contributions.svg)](http://qiita.com/tokku5552)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tokkun5552/contributions.svg)](http://qiita.com/tokkun5552)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/tokku5552/followers.svg)](http://qiita.com/tokku5552)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/tokkun5552/followers.svg)](http://qiita.com/tokkun5552)
         
 <!--
 **tokku5552/tokku5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
