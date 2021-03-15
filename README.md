@@ -1,7 +1,7 @@
 ### Summary
 
-[![tokku5552's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokku5552&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=algolia &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tokku5552's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokku5552&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tokku5552/posts.svg)](http://qiita.com/tokku5552)
