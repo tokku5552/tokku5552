@@ -1,4 +1,4 @@
-### Summary
+### GitHub Summary
 
 [![tokku5552's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokku5552&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokku5552&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
